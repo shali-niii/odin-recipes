@@ -1,2 +1,2 @@
 #Odin Recipes
-My first Project
+THIS IS MY FIRST PROJECT, A BASIC WEBSITE
